@@ -13,6 +13,7 @@ item_price_total = item1_price * iteem1_quality
 
 item2_price = 100
 item2_quantity = 5
+item_name = 'Computers'
 
 print(item1) #item
 print(type(item1_name))
